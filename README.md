@@ -11,5 +11,5 @@
 7. Выберите нужный чип и следуйте подсказкам внутри исходного кода чипа.
 
 ###### Демонстрация работы
-[Sound Visualisator 3D](https://www.youtube.com/watch?v=M4S1L2ltKjI)
-[Image Renderer](https://youtu.be/sH3mJC-3IUE)
+- [Sound Visualisator 3D](https://www.youtube.com/watch?v=M4S1L2ltKjI)
+- [Image Renderer](https://youtu.be/sH3mJC-3IUE)
