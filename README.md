@@ -3,8 +3,8 @@
 
 ## STEAM
 https://steamcommunity.com/id/AKCEJIb/
-If you have any questions u can add me in steam. But before you add me, you should write reason in the comments at my steam profile.
-Если у вас есть какие-либо вопросы, вы можете добавить меня в Steam. Но прежде чем добавить меня, вы должны написать причину в комментариях в моем профиле Steam.
+* **(ENG)** If you have any questions u can add me in steam. But before you add me, you should write reason in the comments at my steam profile.
+* **(RU)** Если у вас есть какие-либо вопросы, вы можете добавить меня в Steam. Но прежде чем добавить меня, вы должны написать причину в комментариях в моем профиле Steam.
 
 ## Install
 1. Clone repository to *Steam directory*\steamapps\common\GarrysMod\garrysmod\data\starfall.
